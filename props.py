@@ -12,5 +12,5 @@ kinopoisk_ru = {
 }
 kinopoiskapiunofficial_tech = {
     'url': 'https://kinopoiskapiunofficial.tech/api',
-    'key': ''
+    'key': '' # e9aed827-xxxx-xxxx-xxxx-e2b09903ed12
 }
